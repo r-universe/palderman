@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "DSSAT",
+    "oncran": true
+  }
+]
