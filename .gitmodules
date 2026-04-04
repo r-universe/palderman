@@ -5,6 +5,9 @@
 [submodule "DSSAT"]
 	path = DSSAT
 	url = https://github.com/palderman/dssat
+[submodule "csmbuilder"]
+	path = csmbuilder
+	url = https://github.com/palderman/csmbuilder
 [submodule "mesonet"]
 	path = mesonet
 	url = https://github.com/palderman/mesonet
